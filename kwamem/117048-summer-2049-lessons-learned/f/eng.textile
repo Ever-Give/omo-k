@@ -1,0 +1,656 @@
+Summer-2049. Lessons learned
+
+Author: kwamem
+
+*000*2025-10-16 10:10
+
+Disclaimer: This is humorous social fiction. All names and contacts are fictitious. Any similarities are unintentional.
+
+The story does not aim to offend anyone.
+
+###
+
+Adverchek, 26.12.2049 22:17 wrote:
+
+Hey, chat neighbors! Here's another reason for you to read and smile.
+
+I think I already said that I recently worked as an editor proofreading transcripts of corporate online meetings. For high-ranking officials. So that they wouldn't have to strain themselves too much to read if the artificial intelligence made mistakes, which is not uncommon. Sometimes I was even asked to insert slides into the text.
+
+I recently quit that job, now I work in advertising. And I came across this text shortly before I quit. I am leaking it here, after my editing, without any cuts.
+
+Here it is. Enjoy !
+
+. . . . . . .
+
+Subject of the Meeting:
+
+Open-air Sanitation Management: Summer 2049, Lessons learned
+
+Meeting Date: 12.11.2049
+
+Client: Open-Air Sanitation Management division, State Health Department
+
+Delivery Contact: [email protected]
+
+11:02:24 Start of recording .
+
+Zoran 11:02:24: So, the recording is already on. After the meeting, it will be available to everyone within the department.
+
+Let me introduce myself again, I am Zoran Manzarek, head of the Open-Air Sanitation Management department, which has just been established as an independent unit within the State Health department. I welcome you all, my dear colleagues. As far as I know, the core team of the department is here. We have, how many? ... thirty-six participants, as I see. And a few more should be joining.
+
+Dear colleagues, if you have questions during the meeting, raise your hand before speaking, and I will yield the right to vote to you. I will not control your microphones, I rely on your conscience.
+
+A little background on why this meeting was organized. Until September 1st of this year, I worked as a leading specialist in the municipal sanitary group in Brno, which reported directly to the State Health Department. Our group was responsible for cleanliness in places of mass gatherings. This included purchasing, renting, storing toilet cabins, managing the staff of seasonal cleaners, monitoring the quality of their work. As well as interaction with the municipal guard on issues of maintaining cleanliness and other duties. I, and my two assistants, were mainly in demand during national holidays, public gatherings in central locations of the city, and of course ... yes, yes, including our favorite festivals.
+
+Our favorite - I say this ambiguously.
+
+[Laughter].
+
+Zoran 11:03:46: For a long time, sanitation at such events did not receive due attention from the state. But over time, priorities change. Ecology and cleanliness standards are already descending to the city level. When two festivals, a beer festival and a music festival, were scheduled for August 2049 in Brno this year, our group was asked for proposals on how to organize these events. They asked our group, can you imagine? For the first time in 20 years.
+
+[Laughter].
+
+Zoran 11:03:55: As a result of my suggestions
+
+[Pause]
+
+Zoran 11:03:58: and the suggestions of my assistants, these two open-air festivals in Brno were combined into one. That is, they took place at the same time and on the same site.
+
+I was put in charge of defending this idea. My official title was "chief of the sanitary headquarters." I was given a special budget, special powers, and permission to recruit volunteers. Some of the most capable of them are here with us now, so thank you!
+
+[Applause]
+
+Zoran 11:04:09: We spent the entire two weeks there, from the opening of the festival until the moment when the fences were taken away. As you can imagine, I, . . . we, succeeded! The Head Sanitary Committee found our festival a model of cleanliness for open-air events. And here is the result: a new department was created. This is our department, our future. Welcome!
+
+[Applause]
+
+Zoran 11:04:16: And as if to mark our start, I was asked to conduct this webinar. To share with you the successful experience from the last open-air event, to tell about the lessons learned, to outline the unresolved problems that still need to be solved. And they need to be solved with your participation, dear colleagues. And this needs to be done quite soon. Already in the spring, the next wave of open-air events awaits us. Each of you in your city and in your areas will try yourself in the same role that I was.
+
+Milan 11:04:31: Please explain why it was necessary to combine the festivals?
+
+Zoran 11:04:36: Yes, thank you for the question. If you remember, these two festivals were planned in different places, but at the same time, as if in a set. And they even had a common slogan "Drink or Sing". That is, dear citizen, you either drink or sing, one of the two, but not both. After my proposal was accepted, the name changed almost imperceptibly: "Sing and Drink".
+
+Milan 11:04:50: So the emphasis was on the music, not the drinking? Let's just say less beer, less mess?
+
+Zoran 11:04:54: Exactly. But you asked why I asked to unite them in one location. I'll explain now.
+
+At beer festivals, putting toilets in order always implies some restrictions on toilets. And then people start limiting themselves in beer consumption, and then you ask, what is the point of the festival? As a result, we encounter misunderstanding on the part of the organizers. Let's say we are not welcome there. Moreover, despite all our efforts, the results of our work are almost invisible. Yes, beer festivals allocate some budget to the city for sanitation, but it is usually never enough.
+
+At music festivals, the situation is even worse: the budget for cleaning is smaller because the municipality thinks that visitors came to listen to music, not drink beer. But since the visitors themselves do not think so, the sanitary zones are overcrowded, everything is very dirty, the queues for the toilets grow uncontrollably. And the same sad result: we are not taken seriously. Yes, of course, if music festivals were allocated the same sanitary budget as beer festivals, I am sure that the result would be much better.
+
+[Pause]
+
+Zoran 11:05:11: Much better for the average citizen, not for the Head Sanotary Committee.
+
+[Laughter]
+
+Zoran 11:05:16: So my idea of making one common festival was to have a sanitary budget for both beer festivals, but at the same time have full rights to introduce their own rules and restrictions, as for a music festival. And this idea turned out to be successful, as we can see.
+
+[Pause]
+
+Zoran 11:05:29: The previous phrase was not for publication in the press or on social networks, I hope everyone understands?
+
+[Pause]
+
+Milan 11:05:37: Yes, thank you, everything is clear.
+
+Zoran 11:05:41: So, now I will tell you about the event in order. During my story I will highlight the topics that I would recommend you pay attention to.
+
+Even before the event opened, I started recruiting a team of volunteer assistants. Although I had done this in advance, by the time the event began, I still had 5 vacancies out of the planned 20. And I had to be distracted by searching for them online right from the headquarters. Please take note: it would be better for you to have time to recruit a full team before the event begins, and then you will not regret it.
+
+Overall, I would admit that the first two days were not very productive. I mean from the point of view of an ordinary visitor. I imagine that for the first two days they had every right to believe that there was no sanitary headquarters there. It was an unpleasant feeling for us. However, we did not sit idle . I studied the situation, personally inspected the territory, agreed with the municipal guard on joint actions, and distributed responsibilities among the volunteers.
+
+Please, Karolina, what did you want to say?
+
+Karolina 11:06:06: Will our task be the same in the first two days?
+
+Zoran 11:06:08: No, not exactly. Please listen carefully.
+
+[Pause]
+
+Zoran 11:06:12: That's why we're holding this seminar, so that you understand that you need to prepare for your event in advance. For example, you need to brief the volunteers in advance. By the way, you can find all the examples of instructions for the members of the sanitary headquarters on our server. And you need to negotiate with the guards and agree on places for the toilet area, all this needs to be done in advance.
+
+Karolina 11:06:19: Thank you, I understand.
+
+Zoran 11:06:21: Here is a festival plan site as it looked from the beginning until the afternoon of the second day.
+
+As you can see, everything is in its place: the music stage on the left, music concessions and a first aid station nearby. In the center are beer kiosks and a food court. The only places left for toilet cubicles were here, next to the stage. See? And this space on the other side of the road, see? It was not used at all. This place became a parking lot for vans with equipment, with beer supplies and so on.
+
+As a result, the queues to the toilets stretched right in the middle of the street food area and the dance floor. It was a terribly unpleasant sight. Firstly, the smell from the toilets spread everywhere. It spoiled people's appetite and the pleasure of the music. Secondly, the queues were a source of garbage. While a visitor stands in line, he usually drinks another glass of beer, and if this glass is paper, then it is often thrown right on the grass. I wandered between these queues, and I was sad. I was trying to think of a solution. Quite by chance, I crossed the road and looked behind a parked van. This is the area, look, on the map it is shaded with gray lines. By the way, I thought then that there was nothing there, but I was wrong. I was shocked by what I saw. What do you think it was?
+
+Radim 11:06:58: A spontaneous garbage dump? Smokers?
+
+Zoran 11:07:03: There was trash there too. And smokers too. But that's not the worst thing. There were impromptu toilets in the open air.
+
+That is ...
+
+[Laughter]
+
+Zoran 11:07:10: Yeah, yeah, and it's not funny at all. And it's even less funny that on that first day my cleaners avoided that place as if it wasn't necessary. And not one of them told me about those zones, although they probably knew. Probably so that I wouldn't make them collect all that crap there. Naive guys.
+
+There were six hours left until the end of the second day. During this time, I managed to negotiate with the municipality's traffic inspection. They promptly gave permission to park the vans on the grass in this place. And then I negotiated with all the transport companies that were servicing the event. So that they would park their cars across the side of the road.
+
+Radim 11:07:33: How did you manage to agree on all this so quickly?
+
+Zoran 11:07:37: I hinted to them about the prospect of a sanitary inspection at their place.
+
+[Laughter, applause]
+
+Zoran 11:07:46: That day we worked there until dark. All my volunteers, the whole team. The next morning, it looked like this:
+
+Note: the toilet cubicles are now isolated from the entertainment area, moreover, they are placed along the perimeter of 2 squares to hide the queues inside them. We called it "sanitary squares". Indeed, inside it looks like a small city square, the only thing missing was a monument to Jost.
+
+[Laughter]
+
+Zoran 11:08:08: In fact, on this diagram we see only the beginning of the 3rd day. Still, such a layout had its drawbacks.
+
+I'll ask Marek to tell me, he was the cleaning inspector that day and was the first to notice it.
+
+Marek 11:08:19: Thank you, Zoran, well if I hadn't noticed, the traffic police would have done it. The lines to the toilets didn't fit inside the sanitary area and went outside. So the road was now blocked by two dense lines of thirsty visitors. Access to the festival area was by passes, so the traffic was light, but some driver must have complained anyway.
+
+Zoran 11:08:28: Sorry to interrupt. It was really hard for drivers to ask the queue to move aside for a car. After that, there was usually confusion in the queue, but no one wanted to lose their place in the queue. So after lunch, the traffic department demanded that we urgently fix the situation. Please continue.
+
+Marek 11:08:33: And the second problem, now only ours: the impromptu open-air toilets have not disappeared completely. The space behind the machines and between them has now become difficult to access. Only narrow passages remained between the machines. Very narrow. However, even these passages were filled with shameless... well, you get what I meant. The volunteer cleaners were warned that not a single meter of the area should be ignored, but it was very difficult to do their job in that area.
+
+I remember how two guys from my team, the most diligent cleaners, tried to do their job there. At first, they politely waited for a group of girls who were squatting there to leave. But then they quickly realized that these girls were immediately replaced by others. They tried to politely ask the girls to wait until the cleaning was finished. But the girls did not care about cleaning, they came there fully prepared to do their things and were not prepared for any obstacles. They did not respond to requests and unceremoniously squatted. Most of them ignored the cleaners, but there were also those who rudely protested and demanded that our guys get out and not peek. Our guys, of course, did not go anywhere after such requests, they collected dirty paper and empty glasses right next to the offenders. In the end, they ran into overly proud girls who called their guys, and then our guys almost got punched in the face.
+
+[Pause]
+
+Marek 11:09:11: Or maybe they got it, I don’t know.
+
+[Laughter]
+
+Zoran 11:09:17: Thank you, Marek. This situation with the impromptu toilets was probably the most difficult challenge for me and my team. Because I had to ask the traffic inspection not even for permission, but for some real help for us. I admit, when I came to them with a request, they did not look at me very kindly, although I did not hint at any sanitary inspection.
+
+I reached an agreement with them that same day. But in practice, the changes took place only a day later. I assure you that this is a great success. One day to solve such a problem is really incredibly fast.
+
+On the morning of the 4th day the situation looked like this.
+
+Zoran 11:09:31: First of all, the traffic department installed pedestrian crossings opposite the entrances to the toilet squares, thanks to them for that. But that's not all: they understood perfectly well that the pedestrian crossings would be constantly occupied by toilet queues, so they installed traffic lights there. These devices were not connected to the central traffic system. They were controlled from a local remote control, just like a TV. Our volunteer controller operated the remote control, he allowed several people into the square, then handed them tickets with the cubicle number.
+
+Radim 11:09:43: And what was the significance of these traffic lights in the closed area? Why didn't visitors simply ignore them?
+
+Zoran 11:09:48: Of course, at first the visitors laughed at this. They created queues right at the crosswalk, ignoring the red signal, and out of habit ran straight across the road directly to their improvised toilets. But by the evening it became noticeable that something had changed. Both roads became freer, people mostly crossed this street only through the crosswalk and only on a green light.
+
+This is explained simply. This street, although closed for free entry, was still allowed to move there with passes. And according to the classification of city roads, the movement of self-driving cars is allowed on this street. I hope you understand what this means.
+
+Radim 11:10:04: Five-fold fine for violating crossing rules when there are markings? Yes, then it is clear! It is just not clear how it is possible to simultaneously control 2 traffic lights and still pursue violators.
+
+Zoran 11:10:10: The traffic inspector had no need to deal with violators. Surveillance cameras were installed throughout the area. So that not a single secluded corner was left out of sight. Near the traffic lights, the cameras turned on at red light and determined the fact of the violation themselves. Some time later, a notification and a 3D photo of the violator appeared on the tablets of all the municipal guards who patrolled the area. They were able to detain him, even if he managed to escape from the scene.
+
+Alan 11:10:17: Do I understand correctly that visiting an impromptu open-air toilet is also a violation?
+
+Zoran 11:10:20: You are absolutely right; this is a violation of the city administrative code; the fine is even slightly more than for crossing the street on a red light.
+
+Alan 11:10:24: Why then didn't the guards themselves think of installing video cameras, from the very beginning?
+
+Zoran 11:10:29: The reality is that the guys from the municipal guard usually never take an interest in spontaneous toilets. Yes, they avoid doing raids of this type. It is for them ... how to say ... a rather dirty job. It is similar to the persecution of the bums, you probably know, they have little enthusiasm for this either. But you are thinking in the right direction. I believe that knowledge of the city laws will greatly help you next spring on your site. I also wondered then how we can motivate the guards to help us with this. I will tell you about this a little later.
+
+So, at first the guards only gave us strict access to the sanitary areas. As a result, it became more spacious, and we were able to organize regular cleaning of the toilet cubicles. Before that, the cubicles were used continuously throughout the day, because our cleaners simply could not squeeze through to them. I think this is one of the reasons why the impromptu toilets became so popular. Just imagine, you waited in line for a cubicle, and then discovered that this was not the place you wanted to go. Ugh, unpleasant, don't you agree? And now the toilet cubicles were constantly cleaned, and visitors had an additional incentive to wait a little, but then satisfy their needs with some comfort.
+
+Stela 11:11:02: Allow me to say a few words. I was at this event as a visitor, together with friends. I was never detained, I was just lucky. But my friends were detained once, and I heard from them how it was organized. In that room where the guards brought the violators... what was that place called?
+
+Zoran 11:11:11: Guardian station at the municipal guard headquarters on the festival grounds. There was a cell for violators inside. Is that what you meant?
+
+Stela 11:11:15: Yes, probably. According to them, it was so crowded there! It was just some kind of hell! The officers didn't really know how to formalize the violation, they did everything slowly, and the patrols kept bringing in new violators. I wonder if there was any real benefit from this so-called "pedestrian hunt". It seems that most visitors to the impromptu toilets still went unpunished. Not to mention that it was somehow... unfair. Some were caught and punished with a fine, and the rest, that is, the majority, were not.
+
+Zoran 11:11:27: I think you were told about the first half of that day, the fourth day. Yes, of course, at first there was some confusion. It was inconvenient for everyone, and especially for the municipal guard officers. Their leaders agreed to help our team, but for the rank and file it was an additional effort.
+
+However, I assure you, Stela, by midday there was much more order in the guard station. The next day the situation even improved. Firstly, they rearranged the inside of the station, so that there was more space to accommodate detainees. As far as I know, in last days of the fest they have expanded by another room. Secondly, they have certainly learned to process violations more quickly.
+
+So, to answer your doubts about the usefulness: have no doubt, the strengthening of the policy had an effect, and quite a significant one at that.
+
+Stela 11:11:50: And in this room, which is for detainees, was there a toilet?
+
+Zoran 11:11:53: I'm not sure. Maybe one of the cleaning inspectors knows about this?
+
+Nela 11:12:04: No, there was no toilet there; there was a separate cubicle for the guards themselves nearby. They had their own key to it.
+
+Stela 11:12:12: But, this is not normal, isn't it?
+
+Zoran 11:12:17: It is inconvenient, of course. However, for an open-air event, it is a common thing. At such events, there is always an objective shortage of toilet cubicles. Just think, if they had installed a toilet point for violators, it could have provoked an increase in the number of violations. I appeal to you, Stela, and to everyone else too: of course, you must show concern for visitors, but not at the expense of your duties and our main goal, that is, cleanliness.
+
+Alan 11:12:28: Oh, by the way, you once mentioned that you gave the guards extra motivation to deal with the unauthorized toilets. How did you deal with that, if they had a lot of clients besides that?
+
+Zoran 11:12:38: Yes, thank you for the question. I will answer, but first a short disclaimer. Dear colleagues, when you interact with the municipal guard, I kindly ask you to clearly separate our goals and theirs. Please note: our team has no task of catching more violators. We do not even have the task of reducing the number of violators, meaning violators in the abstract. We have only one goal, to keep the area as clean as possible.
+
+To answer your question: in short, I agreed with the head of the municipal guard at this event about sharing the sanitation budget with them. No, just don't think that I offered him a bribe.
+
+[Laughter]
+
+Zoran 11:12:57: I simply told him the amount I was prepared to pay the patrol guys from our budget for each person detained in the van parking area. We agreed that at first there would be four patrols with two sergeants in each, and when the visitors realized that the sanitation team was taking the matter seriously, then two patrols would be enough. Before delivering them to the guardian station to draw up a report, they brought them to our headquarters, where they were given a receipt with our seal and date. At the end of the day, they came to me with these receipts to get their bonus. I didn't care whether they escorted every scoundrel to their headquarters or not. It was important to me that there were no such scoundrels near the vans. So that they would forget the way there, preferably forever.
+
+Radim 11:13:21: Is it even legal to manage the budget in this way?
+
+Zoran 11:13:28: Legal, of course. But there is a drawback: it is a rather primitive solution. I am not forcing it on you, I am not even sure that each of you will be able to solve the problem in the same way. In any case, you should be resourceful and find your own way to use exceptional powers that you did not initially have, if necessary, to achieve your goal.
+
+Radim 11:13:39: What formula did you use to estimate how much each violator would cost?
+
+Zoran 11:13:46: Oh-oh-oh, there was no universal formula. Let me remind you once again, you must be resourceful and find your own solution to each issue of interaction with other city services. I would recommend learning this in advance. And one more point: please do not forget about the educational effect of preventive measures. That is, the costs of bonuses for violators will decrease day by day, because there will be fewer violators.
+
+The inevitability of consequences for violations plays an important role here. Because almost everyone who visited spontaneous toilets starting from the fourth day, all of them received a fine. Even if not on the same day, then a day or two later. I allocated only 6% of our budget for this. Just imagine, it's almost nothing, but what an effect!
+
+Milan 11:14:10: It's not immediately clear. How could they remember all the violators by face?
+
+Zoran 11:14:14: After the surveillance cameras were installed, the municipal guard requested that these cameras be connected to the city's facial recognition system. Once the identification was up and running, the guards could quickly find violators using their tablets. Even if the violation occurred yesterday or the day before. How great it is when technology helps make our world cleaner.
+
+Milan 11:14:25: Sounds like a triumph of new technologies. Simply fantastic! However, if it was possible, I mean identifying violators by their faces, why not also charge fines automatically? It would even be possible to write off these amounts in favor of the city budget through municipal banking services. Why was it necessary to distract the guards to catch all these poor fellows, and then waste their time on issuing fines and all that?
+
+Zoran 11:14:29: Well... don't forget about the psychological... I would say better the disciplinary function of punishment. Writing off money without acceptance - it would be more profitable if we only wanted to gain a cash. But for us it was more important to eliminate the very desire to violate public order. Therefore, our system, I believe, turned out to be more effective.
+
+Jasmina 11:14:40: My name is Jasmina, I was a volunteer cleaner at that event and when my partner and I were cleaning the cubicles, I witnessed a strange incident. Can you tell me, is this a result of this system? It looked pretty cruel from the outside, I was even a little scared.
+
+Zoran 11:14:48: What incident, what are you talking about?
+
+Jasmina 11:14:52: I saw a girl and a guy in their 20s standing in parallel lines and they were detained for no apparent reason. They had walked their entire line and were almost to the entrance to the cubicle. The guards simply walked up to them and ordered them to immediately go into their station. At first, this couple politely asked them to wait for them a little while so they could use their cubicles. When they were refused, they became seriously alarmed and then began to argue. They insisted that they had been confused with someone else. Apparently, this guy and girl were there together and they couldn’t just leave each other. If one of them gave up and left, then the other would have to give up the toilet as well. So they held up both their lines for at least 10 minutes. The people behind them got so angry that finally the girl got scared and agreed to leave accompanied by the guards. And her boyfriend couldn’t leave her alone and followed her.
+
+Zoran 11:15:18: I haven't heard of this case myself, but... yes, it's quite possible.
+
+Jasmina 11:15:23: Is it really necessary to punish for a violation after two days? Why not limit it to the same day when the violation occurred!
+
+Zoran 11:15:32: I think we need to make it clear to visitors that the rules are taken seriously here. And then people will start following the sanitary rules consciously. It's a matter of time, sometimes it takes a couple of hours, sometimes a few days to get used to the rules, so that everyone realizes that nothing should be broken.
+
+This is not just a theory, this is how it really was. Did you know that by the end of the 6th day, the spontaneous toilets had completely disappeared? Even the number of seemingly unnoticeable runs on red lights had disappeared in fact. Wow! So this was quite a successful find, I mean the set of measures applied to violators. I didn't even expect such an effect, to be honest.
+
+Perhaps this is because the event was attended by fairly cultured and educated people. For whom personal privacy and psychological comfort are sometimes even more important than physical one. Imagine yourself in their place: who among you would want to risk ruining their holiday, wouldn't it be easier to comply with sanitary standards? Speaking of fairness, by the way.
+
+[Pause]
+
+Zoran 11:15:59: There were still lines at the pedestrian traffic lights, which were actually the beginning of two lines to the toilet cubicles. People were pushing, often getting into conflicts, which generally spoiled the holiday feeling for the rest. However, by the ninth day we had solved even this problem. I will tell you more about it later.
+
+Yes please, what is your question?
+
+Nela 11:16:13: I don't have a question, but a comment. I was a volunteer inspector at this event, mainly monitoring the quality of cleaning of toilet cubicles and the dance floor. So I had to run around the entire area quite a bit. And I noticed that the guards preferred to detain people already at the entrance to the vans, and not at the exit from there. For example, I could see desperate girls who almost ran there, but did not have time to do what they needed, because the guards were already waiting for them, as if in ambush. By the way, some boys watched this and then calmly walked towards the vans without risking being caught.
+
+[Laughter]
+
+Nela 11:16:20: After receiving a fine, these poor fellows usually ran out of the guardian station in complete despair, so they went straight to the exit. But some, especially music lovers, did not want to leave the festival and rushed to the nearest traffic light. They begged to be let into the sanitary square out of turn as soon as the green light came on. As a rule, their requests were not satisfied. Then the most desperate ran to the far traffic light, believing that they had a better chance there, but alas ... So they had no other way but to join a queue or leave the area and look for a toilet outside. The last option was very annoying as well: to get back they had to waste a lot of time at the entrance inspection point. Some unfortunate ones did not even have time to run to the exit, they peed in their clothes, and, crying from resentment and shame, said goodbye to the festival for the rest of the day.
+
+I myself have observed two such cases, apparently there were more.
+
+Zoran 11:16:37: Well, let's look at this question from another point of view: why were some crying, while other similar girls were simply standing in line and reaching the toilet on time. We are talking about personal discipline and responsibility, aren't we? Or maybe we are talking about children who are not responsible for themselves? But no, people under 18 are not allowed inside the perimeter, they are not even sold tickets. Even if such an unfortunate girl were here among us, I would not hesitate to repeat these words. And my main question: why were you crying? Why not the girl next to you, dancing with a glass of light beer, free and carefree? Who did not even try to slip unnoticed to the vans and squat there, but used our sanitary system, and was satisfied. Why do you think that rules are made to be broken?
+
+Nela 11:17:11: Maybe you're right. But why not create conveniences so that such situations don't arise? For example, order more toilet cubicles.
+
+Zoran 11:17:18: Well, we did it! When we moved the cubicles to the other side of the road, our volunteer Milan, thanks to him, suggested placing them along the perimeter of the square. It turned out that with this arrangement, more cubicles fit in one place. And then we ordered a few more. But it is impossible to add cubicles indefinitely, the territory is limited, and there would simply be nowhere to place them.
+
+Milan 11:17:27: Zoran , I'm here. I have a fresh idea about this. You know that there are closed multi-cabins, for several urinals. They will definitely take up less space than the same number of individual cabins. And they can hide the queue inside. They are usually converted from long, old containers.
+
+Zoran 11:17:38: Yes, I can imagine what it looks like. But such stalls are much more expensive. Their delivery to and from the place is especially expensive. And another disadvantage: they are only suitable for guys. And we all know that men's toilet queues are not such a big problem. For girls, there can only be 3 points in one container, which negates all the benefits.
+
+Milan 11:17:47: Yes, I didn't think about that. But... at least for the male half the queues could be shortened.
+
+[Pause]
+
+Beata 11:18:00: Sorry, let me add that it's not just for the male half. I recently attended a similar event in Amsterdam. There, compact urinals for women were quite popular.
+
+Zoran 11:18:06: I don't quite understand what devices you are talking about. How compact are they?
+
+Beata 11:18:12: It seemed to me that the devices themselves are the same size as those for men. It's just that if you install them indoors, the distance between them should be a little bigger. Let's say by 20 percent.
+
+Zoran 11:18:21: But the devices for men are urinals! You can't sit on them. I can't imagine how you can sit down with such a small space.
+
+Beata 11:18:28: You misunderstood me. The girl will not sit, but stand. Like a guy.
+
+Zoran 11:18:33: Are you serious?! But this is... so unusual. Won't it turn out that these urinals will remain unused and will just take up valuable space?
+
+[Pause]
+
+Beata 11:18:44: I guess no guy could object to you. That's why I brought it up. I can tell you from my own experience and very seriously: there will always be a line of girls at such urinals, rest assured. Especially at such events. Whether you stand or sit is not as important as how you feel inside.
+
+[Applause]
+
+Zoran 11:18:55: I'm a little surprised, but after hearing it from you, I'm ready to believe it. Thanks to both of you. Both the containers and the urinals for the girls, it all sounds like a valuable idea. Let's try that next time.
+
+[Pause]
+
+Beata 11:19:03: And one more important note! You can't forget about sitting points either.
+
+[Laughter]
+
+Zoran 11:19:15: Absolutely. I don't see anything funny about it. I completely agree.
+
+Jasmina 11:19:21: Zoran , can I ask you a question, perhaps it will seem immodest.
+
+Zoran 11:19:25: Yes, please try.
+
+Jasmina 11:19:27: How did you get to the toilet yourself? Did you also stand in those endlessly long lines?
+
+Zoran 11:19:30: I used the toilet at our sanitary headquarters. It's a separate cubicle. I suppose that's normal. For example, as we all know, there is a separate toilet for the staff in restaurants.
+
+Jasmina 11:19:35: Oh wow! This is news to me! I was a volunteer cleaner at this event, but no one told me there was such a cubicle. And I don't think any of the cleaners knew about it. Why is that?
+
+Zoran 11:19:41: This toilet was not accessible to all members of our team. Among the volunteers, only the inspectors and the cleaners of the food court area could use it. Neither the toilet cleaners nor the toilet cleaning inspectors had access there.
+
+Jasmina 11:19:48: But when the toilet is not available to all members of the sanitary team - it is not fair, It should not be like that, should it?
+
+Zoran 11:19:57: Honestly, I don't see a big problem. The cleaners and toilet inspectors could use the shared toilet stalls, right during the cleaning.
+
+Jasmina 11:20:06: You may not know, but... no, it's not.
+
+Zoran 11:20:13: This is not true? Why?
+
+Jasmina 11:20:17: Hmm , my partner Niklos isn't here. He could probably explain it better.
+
+[Pause]
+
+Jasmina 11:20:24: Okay, I'll try to explain. When the lines were organized inside the sanitary squares... what day was it?
+
+Zoran 11:20:28: On the fourth day. Yes, the day when the traffic lights were turned on. Our volunteer controller was inside, he was handing out a sticker with the cubicle number to everyone. In order to better manage the queue, minimize conflicts.
+
+Jasmina 11:20:35: Yes, that very same day, we, that is, the cleaners, were given such instructions. We had to walk strictly along the perimeter of the square and clean two adjacent cubicles. Then move on to the next two, without skipping any. While the cleaning was going on, both cubicles were inaccessible to visitors, it took from 3 to 5 minutes. Sometimes it was longer.
+
+[Laughter]
+
+Jasmina 11:20:49: As I said, I worked in a pair with Niklos. This guy was very responsible about his work, sometimes he even rushed me. So I didn’t ask him to wait. When I started to need the toilet, I just kept working. But then... I don’t know, maybe he himself noticed that something was wrong with me, or he also needed it, and then he suggested that we close at the same time and then continue cleaning. I thanked him and we did so. But when we went out, we were showered with reproaches, even insults.
+
+Then for a long time I hesitated to suggest that we do the same. Finally, I waited until he himself suggested it, and we did it again. When we went outside, the people in the queue turned out to be not so aggressive, but very boring. They did not let us just continue working, they began to reproach us that there was a special toilet for us and grumble that we use the common one. Of course, we explained to them that this was a misconception, that there was no special toilet, but they didn’t believe us.
+
+[Pause]
+
+Jasmina 11:21:13: On the fifth day we were able to visit the toilet only 3 times a day, and each time it was a huge mental stress. But on the sixth day the situation worsened. Sometimes we could not even block the stalls that had just been vacated, often visitors pushed us away and we had to let them pass and wait until the next person allowed us to start cleaning. I could not even think about locking myself in a stall before cleaning. And on the seventh day ...
+
+[Pause]
+
+Zoran 11:21:29: Yes, please continue
+
+Jasmina 11:21:31: Sorry, I'm embarrassed to say it, but... I barely made it to the end of the day. I only got to use the cubicle twice the entire day. And the third time was late in the evening, when the majority of people had gone home and cubicles became available.
+
+Zoran 11:21:47: Sorry to interrupt you, but can I also ask an immodest question: did you drink beer that day?
+
+Jasmina 11:21:56: Yes. A little. Is it forbidden?
+
+Zoran 11:21:59: Oh, no. As for beer and music, you have the same rights as visitors, except that it's free. And how much is a little?
+
+Jasmina 11:22:10: Two pints that day.
+
+[Pause]
+
+Jasmina 11:22:09: Or maybe three.
+
+[Pause]
+
+Jasmina 11:22:16: Or little more. I don't remember exactly. It's just that there was a presentation of unique varieties that day, and you could only try them that day. I know something about this, I couldn't miss it.
+
+Zoran 11:22:23: Yes, I sympathize with you. I wouldn't like to impose my point of view on you, but I suppose that beer and work don't mix. But still, what prevented you from visiting the toilet that day?
+
+[Pause]
+
+Nela 11:22:41: I share your awkwardness, Jasmina, I understand why you are embarrassed to speak. So let me say, okay? I was a cleaning inspector and I watched this happen. To be clear, I am not talking about you now, Jasmina, but it happened to all the cleaners. For example, I saw one pair of girls, volunteer cleaners, trying to lock themselves in the cubicles before starting cleaning. But those who were first in line grabbed the doors and did not let them close them. One girl managed to close her door, but did not have time to lock it. Visitors abruptly threw it open, I saw how that girl barely had time to pull her panties back up.
+
+When the volunteers tried to persuade the visitors to wait just 1 minute, they got even angrier and started yelling at them to value their time and finish cleaning quickly with the door open. The girls complied. I can imagine how awkward it was for them to continue cleaning in such a state. And under the close supervision of visitors who knew about it.
+
+Zoran 11:22:52: Sorry to interrupt you, Nela. But volunteer work requires communication skills with strangers. It's not just a walk or a way to spend free time.
+
+Nela 11:22:58: You probably didn't hear. They both tried to negotiate. For example, when they finished cleaning those cubicles, before continuing, they started convincing the next customers in the same line to let them in. But they were refused again. From the faces of the customers, it was clear that this was not out of spite, they just didn't want to conflict with those standing behind them.
+
+At that moment I also really needed to go to the toilet, but looking at all this, I did not dare ask anyone. When I left this square, I saw that those two cleaning girls took the general queue, they had no other choice. Thanks to our controller, he at least gave them tickets.
+
+Zoran 11:23:07: I wouldn't approve of such mercy. What was the average time spent in line back then?
+
+Nela 11:23:12: About 15 minutes. But I didn't stand in line then, I just left.
+
+Zoran 11:23:18: You should have reprimanded those volunteers and lowered their rating. Did you do that?
+
+Nela 11:23:24: Yes, I did. First, I approached them and talked about it. I warned them that their rating would be lowered by 5 points for each of them and suggested that they return to work. I want everyone to hear: I was disgusted by doing this to them. I think it is inhumane. They listened to me calmly, nodded their heads and replied that they were not offended by me. In fact, it was a nominal conversation, I saw in their eyes that at that moment they cared least about their rating.
+
+Zoran 11:23:46: Yes, that's not normal. To lose 15 minutes of work time and at the same time lower the average level of cleanliness of the cubicles! I think this is acceptable only in exceptional cases, if the need to visit the toilet negatively affects the result of work.
+
+Jasmina 11:23:55: Yes, Zoran, I assure you, we had only such cases that day. Only exceptional ones.
+
+Zoran 11:24:02: Are you saying that you also stood in line for 15 minutes?
+
+Jasmina 11:24:06: It was 15 minutes on the 6th day. And on that seventh day I waited for half an hour. Because neither of us were even allowed to enter the queue inside the sanitary square. We were sent to the other side of the road to go through the queue to the traffic light first. I still remember that half an hour.
+
+Nela 11:24:17: Agree, Zoran, this is not normal.
+
+Zoran 11:24:20: Yes, you may be right in this case. By the way, you said that you yourself did not join the queue, although you also needed to. So you had your own life hack to solve this problem? Maybe you can share it with us?
+
+Nela 11:24:26: No, no life hack. It's just that all the volunteer inspectors had a status meeting every two hours. If I had taken my place in line for the toilet, I would have missed it. After that meeting, of course, I came back and took my place in line.
+
+Zoran 11:24:32: Nela, you are very responsible. Thank you. You see, Jasmina, I am ready to listen to your remark. Let's note for the future, all team members must have access to the sanitary headquarters toilet. Without exceptions.
+
+Jasmina 11:24:39: Thank you, Zoran, I am very grateful to you.
+
+Nela 11:24:42: Yes, thank you, Zoran. I would also like to say that such strict control over maintaining cleanliness leads to more creative ways to get around the restrictions. You may have heard that already on the 6th day, visitors started coming dressed in "fish-scales". This idea went viral, and by the end of the sixth day, the dance floor smelled like we had never cleaned the toilet stalls.
+
+Zoran 11:24:55: Yes, of course, I remember that sixth day. And these "Fish scales" or "Avatar-suit", tight-fitting suits of the future that became reality. I used to think that its magical properties were just an advertising lie, but at the festival I was convinced that it was true. I mean the absolute invisibility of wet spots. That evening, I visited the dance floor and looked closely at these people. These resourceful young people were easy to find, by the terrible smell. When they stand still, there is no smell, it appears only when they move. No matter how hard I tried to discern a wet spot, at least a weak shade of it, I could not. It was amazing, but it is real.
+
+[Pause]
+
+Zoran 11:25:11: I then had an idea that helped solve this problem: if you remember, the first models were looked like just a naked body. Young people wanted to introduce this into fashion, but the "naked" coloring did not become popular, rather the opposite. Now these suits mostly look like fish scales or animal skin. However, I noticed that several people still came in "naked" versions of the suit.
+
+And that same evening I made a deal with the police. The city law allows for banning certain clothing at certain events, especially commercial ones. It's like a dress code. And we banned these suits that same day, regardless of their color. We announced it over the loudspeaker all evening, and from the morning of the 7th day, visitors in such clothes were not allowed in at the entrance.
+
+However, there were some savvy visitors who brought fish-scale with them in their bags, passed through the entrance control and then changed. They hid their regular clothes in a storage room or a backpack. The municipal guards had no incentive to track them. Only when such a person accidentally caught their eye, they forced him to take his regular clothes, confiscated the pass bracelet and took him outside the territory. Most of them were polite people, they apologized and asked to be allowed to stay at the festival and change back. To do this, they were escorted to the guardian station, where they changed under control. As soon as they left there, after some time they were again seen dressed in this costume.
+
+It looked like some kind of game between students and teachers. I risked getting complaints from normal visitors because of these hipsters. When I talked to the head of the guards. I didn't even have to persuade him, he was fed up with this situation. The number of visitors dressed in "fish scales" was growing, and the smell from them was becoming more noticeable. The guards supported my concern and decided to confiscate the suits from such violators, make them change there, under the control of the guards, and also issue them a fine.
+
+Nela 11:26:03: That's great. But do you know, Zoran, how it really was? It's not just a fine and lost time, it's a completely ruined holiday, for which, by the way, these visitors paid!
+
+People who were detained in "fish scale" suits were forced to change in one cramped room, in groups of 6 people. The entire group was given only 2 minutes to change. The girls were embarrassed, asked to be allowed to change separately from the guys, but ... .
+
+Zoran 11:26:14: I already agreed with that, it wasn't very convenient there. Maybe we shouldn't discuss it now?
+
+Nela 11:26:18: No, I need to finish my thought. Girls asked to be allowed to change separately, but they were refused, they were told that there was no time for this. They were not prepared for such a situation, many refused to change, even realizing that they risked breaking more serious laws. Then the guards flew into a rage and forced the detained guys to undress these girls, under the threat of using batons or stun gun. They themselves did not do this, probably so as not to leave traces and avoid any accusations of harassment or something like that.
+
+The detainees were then taken out of the changing room and escorted through the common room to a holding cell. There they waited while a guard wrote out a fine and registered the confiscation of the suit. It didn't matter...
+
+Zoran 11:26:32: Nela , but what does our team have to do with it? Let's not ...
+
+Nela 11:26:35: The guards didn't care if you had time to change or not, if you were a girl or a guy, they still drag you into this scary room. It's a room that can be seen right through, its walls are just iron bars! There's nowhere to sit. And there's no toilet!
+
+You may know the story about the two girls, the same ones who filed a complaint to the city court about the incident with their detention. The court even awarded them compensation, but a month later the appeal court sided with the guards and ordered the girls to return the compensation.
+
+Zoran 11:26:49: Nela , please, this has nothing to do with the topic of our meeting, Please, not now...
+
+Nela 11:26:53: No, sorry, but I think it does! I think everyone should know this story! So, those two girls had just joined the queue for the toilets, and at that moment they were detained by the guards. They did not pee in their costumes and did not emit any unpleasant odor. They smelled of perfume, like normal young girls. They were not misbehaving in any way and were extremely polite. It was their first day at the festival. Apparently they had heard stories about the toilets not being accessible and wore those costumes, just in case.
+
+Zoran 11:27:09: But you see, they dressed them of their own free will. No one forced them to do this. And in my opinion, one of them had "naked" paint.
+
+Nela 11:27:14: Not true, both had "pink leopard" paint. And I'll say it again, their suits were clean, there was no smell. The guards pestered them, although there were probably plenty of other violations nearby. They were only thinking about how to get their bonus. Or just to mock. That is, if it weren't for your ..., excuse me, our agreements with the municipal guard, these girls would not have been in any danger. But no, they were still brought to the guardian station, despite all their polite objections and requests.
+
+They had nothing to change into because their other clothes, as well as their phones, were left in the custody of friends who were not around at the time.
+
+The guy the guards forced these girls to undress turned out to be a decent person and refused to touch them. For that, he was shocked with a stun gun several times and wet himself. The girls, seeing this, took off their suits themselves and walked through the entire guard headquarters to the cell, holding the crumpled suits under their stomachs. I can't even imagine myself in their place, I start shaking nervously.
+
+Zoran 11:27:48: Nela , maybe we'll hear about this another time?
+
+Nela 11:27:51: The cell was filled with people, mostly guys detained for various reasons. Among them were some scoundrels who immediately took an interest in the poor girls, who had no protection. They were mocked, pinched on the sly by the butt, and had their suits torn out of their hands.
+
+When the guard sergeant who was writing the reports demanded that they hand over their suits, he discovered that the girls were naked. That is, absolutely nothing, not even panties. He was confused, because he could not allow them to go out into the territory like that. Then he allowed them to call their friends. It turned out that the guys who were holding their clothes and phones had already gone home. Then the girls asked the sergeant to take them back to the changing room and let them put on their suits. They begged him, promising that the suits would remain dry. He allowed them to do so, and they returned to the cell dressed. But then this sergeant began to show special attention to one of them. He made her stand facing the iron bars and stand motionless, holding her hands raised on the bars. As he later explained in court, this girl squatted for too long without moving, and he assumed that she had broken her promise and began to urinate in her suit.
+
+Zoran 11:28:13: Nela , please! This is not interesting!
+
+Nela 11:28:15: When that girl started marching in place, and then squatted down on her haunches, almost crying, it became clear that something had happened to her. It seemed that this was exactly what the sergeant wanted. Then he made them both get rid of their suits again and took it away anyway. He later explained to the court that he smelled a strong odor from them, although no one else confirmed this. So he left those girls completely naked, only giving each a piece of paper towel, so they might cover their privates.
+
+The girls were desperate, they stood with their backs to each other, among the cigarette smoke and the jeering boys. They clung to the bars to avoid being pushed into the far corner, where anything could happen to them, and the guard wouldn't waste his time standing up for them. They were cold, they huddled close to each other, and held their hands under their stomachs. And they stayed there in that state until evening, when their friends brought them clothes.
+
+Zoran 11:28:48: Oo-oh! Finally! Are you finished?
+
+Nela 11:28:50: I think so . Thanks for your attention.
+
+[Applause]
+
+Zoran 11:28:59: Okay, just don't stir up the drama please! Yes, I heard about it, and I'm sure it's an isolated incident. And I'm also almost certain that it's just some girls' fabrication, who were simply prevented from listening to their favorite music. There is not a single witness, not a single piece of evidence, only their words, distorted by gossip. So I think the court of second instance made a fair decision.
+
+However, let's not discuss the decisions of the law enforcement system, it is not our responsibility in any case.
+
+[Pause]
+
+Zoran 11:29:16: Our area of responsibility is the cleanliness and aesthetics of the holiday.
+
+[Applause]
+
+[Pause]
+
+Zoran 11:29:40: So, we are approaching the last days of the festival. As with any event, the last days are always special in some way. In our case, these are the most famous bands, the rarest and most exclusive beers, in general, the best of everything.
+
+I was very worried, because the cleanliness had to be even better these days. As I have already noted, our team as a whole was ready to ensure this.
+
+At the beginning of the ninth day I walked around the entire territory. I was glad about the situation with toilet queues. Look at the picture.
+
+I have already said before that the queues at the traffic lights formed by themselves and their appearance was expected. In addition to the garbage that constantly appeared near these queues, the problem was that the festive atmosphere around these people disappeared. Even I, passing by, felt some nervous tension. And also constant disputes about someone being ready to let the needier one pass, and those standing behind him disagree with him. Someone from our team, I think it was Patrik, suggested dispersing these two queues around the area and adding joy to them. I supported him. Better let him tell us himself.
+
+Patrik 11:30:08: Thank you for your support, Zoran. We asked the owners of several beer shops to move their tables for food in the path of these two queues. As a result, we broke both queues, in two places each. There we organized additional entertainment. I used to be an animator on the beach, and I suddenly thought, why not remember my old skills. We placed animators in those places. Including me, I worked there. We told jokes, joked about city news, sang along with the musicians whose song was playing at the time. And of course there were also competitions. For example, some kind of riddle, or a test of wits, or who can sing better. This is how we managed to put out many conflicts. If two people argued over a place in the queue, we included them in a game: whoever wins the competition is allowed to be first. Of course, all this was not formal, but fun and festive.
+
+Vilem 11:30:54: Patrik, do you remember how a girl asked a guy she didn't know to let her go first, and he had already let two others go first? That's why he didn't agree. You offered them a competition to choose between jumping in place, jumping over each other, or a public kiss. They chose the kiss. It was a fantastic performance. He didn't want to let her go from his arms, he got so excited that he pressed her waist to himself, and the girl peed right on him. She then hid her face in her hands and ran away. So they didn't even meet.
+
+Patrik 11:31:07: Well, really, that was overly creative. But it was fun. And it will be something to remember at the Christmas table.
+
+Anezka 11:31:12: Yes, you could also tell us about the super prize.
+
+Patrik 11:31:15: This was an even riskier competition than the previous one, but no accidents occurred. That's the power of luck. Right, Anezka? Tell us about it yourself, since you were the one who came up with it.
+
+Anezka 11:31:26: Yes, hi, my name is Anezka, I was one of the entertainers. I don't know about any accidents due to failure with the super prize, but I can admit that they happened, just a little later, when we could no longer observe them. Still, the rules were too strict. Let me remind you that only those standing in the queue for the toilet participated in the competitions. So, the person had to drink a pint of beer, and then the person standing behind in the queue threw up a dice. Two evens in a row meant that the candidate took the super prize, thus immediately escorted to the toilet cubicle of the sanitary headquarters. If the first attempt was not so successful, then the candidate was given another half a pint and allowed a second attempt. But no more.
+
+Zoran 11:31:53: Thank you, Patrik and Anezka, that's enough details.
+
+[Applause]
+
+Zoran 11:32:02: As a result, these toilet queues at the traffic lights became almost unnoticeable. I had the impression that there were no queues at all, as if people were simply participating in the event, dancing on the spot, enjoying beer and music. And yet ...
+
+[Pause]
+
+Zoran 11:32:14: there was no intention to run across the street on a red light, or to create a new queue at the crosswalk. Everyone knew the rules and the consequences for breaking them. People were friendly, the mood was festive. I smiled at them, they smiled back at me.
+
+Stela 11:32:21: And did they know what are you?
+
+Zoran 11:32:23: I don't think so. Does it matter?
+
+[Laughter]
+
+Zoran 11:32:30: But by the middle of the ninth day, I felt the downside of the festive finale. There were significantly more people on the grounds. Many bought tickets only for these two days, as I later learned.
+
+I wasn't sure whether the Federal Sanitary Committee would come on the ninth day or the tenth. Frankly, I was worried that all our efforts would be in vain.
+
+I looked into the guards' station. They had set up an additional room for violators, and it was already filled to capacity. Every now and then, the poor souls who had been released would come out and hurry to the exit. There were huge queues in front of the entrance to the territory, because many visitors found a toilet for themselves outside the event, then returned back. This was even good, because there were fewer people on the territory, which meant less trash. And besides, it showed the city that the event was so popular, even more popular than it actually was.
+
+[Laughter, Applause]
+
+Zoran 11:33:04: But then, by 3pm on the ninth day, the queues to exit began to grow. The especially active beer lovers found themselves in a bit of a trap.
+
+Jan 11:33:09: So, we screwed up after all?
+
+Zoran 11:33:13: Nothing of the sort. Don't rush me with the story, please. I wanted to tell everything in sequence. I... or rather we, our team, we foresaw this situation. Some of you said that we should achieve purity not only through prohibitions, but also somehow help people feel comfortable.
+
+Nela 11:33:22: Yes, I said that. Don't you agree?
+
+Zoran 11:33:25: But that's exactly what we did! That morning I placed an order for a large batch of adult diapers. And I agreed with the beer sellers that they could buy them from us for next to nothing and give them to their customers as a reward. Around 3pm the order arrived. 10 minutes later the beer sellers had taken them apart and we made an announcement about our promotion over the loudspeaker. The queues at the beer stands grew sharply. I walked around and watched these queues, worrying that they might become a source of the same problems. But people turned out to be quite responsible. Basically they all took a new diaper and stood in line at the toilets to put it on or replace it with a new one.
+
+Only rare shameless persons allowed themselves to strip naked in public and put on a diaper right next to the the cash stall. And only a very exceptional hooligan could throw a diaper on the ground. The guards' station was of course already waiting for such persons. Therefore, girls in skirts turned out to be much luckier in this situation.
+
+[Laughter]
+
+Stela 11:33:52: Sorry to interrupt. But did you know that diapers were not just given out upon request?
+
+Zoran 11:33:57: As far as I know, no one had the authority to sell them. We agreed on this. I organized several test purchases, and no one sold my guys diapers.
+
+Stela 11:34:03: But still...
+
+Zoran 11:34:07: Well, yeah, they gave out one diaper for each pint of beer. Otherwise what would be the interest of beer sellers in doing this?
+
+Nela 11:34:13: To be honest, not one, but three pints. I tried to ask for at least two, but they wouldn't let me. Stela, thanks for raising this issue. I think it's worth looking into.
+
+Zoran 11:34:20: But why is this so important? Could you explain?
+
+Nela 11:34:24: Because it was inconvenient! Perhaps you, Zoran, did not try to use this gift. Ah, yeah, you already admitted that you did not need it. But I absolutely needed it. And many others too.
+
+Zoran 11:34:31: Still, explain what the inconvenience is? Maybe I'm not the only one who doesn't understand.
+
+[Pause]
+
+Nela 11:34:40: I feel a bit awkward telling this in front of everyone. These nappies were pretty cheap and therefore pretty basic. Is it really that hard to understand? Just believe me. One of these nappies for every pint you bought was okay. But one for three was too less.
+
+Zoran 11:34:51: Can anyone else confirm what Nela says?
+
+Jasmina 11:34:55: Yes, of course. I could confirm.
+
+Patrik 11:34:58: Yes, Nela is right.
+
+Zuzana 11:35:05: Yes, three pints for one diaper is too much. Not to mention expensive.
+
+Jan 11:35:11: I didn't notice any difference. It was acceptable for me.
+
+Stela 11:35:13: No, that was not acceptable!
+
+Vaclav 11:35:17: I, like Jan, did not notice any inconveniences.
+
+Vilem 11:35:20: Same thing. No inconvenience.
+
+Marek 11:35:25: Nope. Fair exchange, I think.
+
+[Pause]
+
+Zoran 11:35:33: But... in any case, you must admit, this is not our business. The beer sellers themselves decided what was profitable for them. How could I influence this?
+
+Nela 11:35:39: I think that your conditions, or rather our conditions, would matter. And we should influence this. You see, almost everyone agrees with me.
+
+Zoran 11:35:44: I see. Thank you for your comment. Let's check this point. However, this will require additional costs, not only for the diapers themselves. If you think it's the cost of the diapers themselves, it's not.
+
+Nela 11:35:53: But what's the matter then?
+
+Zoran 11:36:18: I'll explain. By the evening of the ninth day, the toilet cleaners reported a serious problem. When changing clothes, almost everyone threw a used diaper into the toilet, almost no one took it back to utilize. Because of this, some stalls were filled with diapers so much that they swelled and rose to the level of the toilet. The holes were clogged. Not all visitors came to the cubicles to change a diaper, many needed to go to the toilet. And they, having no other choice, used this toilet. As a result, several stalls, say a quarter of the total, were out of order. And what's even worse, there were queues at these stalls, which in a panic began to merge with parallel queues. Serious conflicts began, there were even several fights, including with the participation of girls.
+
+I had to rush to the guards and beg them to send some sergeants to queuing up the aggression in the toilet queues. They were very unhappy, but I promised that I needed a maximum of an hour to fix the situation. At that moment, all I could think about was how many of them would find the time to file a complaint against us. Fortunately, there were no complaints. We put out this fire in time.
+
+[Pause]
+
+Zoran 11:36:59: It would probably be better to say not this fire, but this flood.
+
+[Laughter]
+
+Zoran 11:37:10: A huge thank you to our volunteer cleaners that day. They were manually removing diapers from toilets and putting them in large garbage bags. Ten huge bags in an hour of work is quite a feat. And yes, they also managed to clean the toilets and the steps in the stalls. Thank you, guys!
+
+[Applause]
+
+Zoran 11:37:28: Back to your question, Nela. I was thinking, if I ordered more expensive nappies, meaning larger ones. Or the same ones, but three times as many. So that they could be handed out, as you requested, one per pint. Then the toilet cubicles would be completely out of order. It would be a disaster. I would be fired for such a failure, at the very least.
+
+On the evening of the ninth day, I called an emergency meeting with the entire team, knowing that even more people would come tomorrow. I ordered three times more diapers of the same brand. You understand, with an even bigger discount. Then someone, I think it was also Jan, came up with an original idea. Please look at the next slide, this is the site plan on the last, tenth, day. Jan, tell us about it, please.
+
+Jan 11:37:47: Thank you. The idea was to create separate areas for changing diapers. And to keep the toilet cubicles in working order. We could not place such zones on this side of the road. In order to avoid a nasty smell next to the music stage or especially next to the food court, we had to place them inside the sanitary areas. Unfortunately, because of this, we reduced the number of cubicles by about a quarter. The extra cubicles were taken to a warehouse that same night. Look at the plan, these zones, they are located in the corners of the sanitary areas. They are just screens made of opaque film. The guys changed in one corner, the girls in the other one. Toilet inspectors looked in every 10 minutes, checking that the diapers were not lying on the ground, but were disposed of in a container.
+
+Zoran 11:38:13: Thank you, Jan. Yes, please speak, Nela.
+
+Nela 11:38:17: I was just such an inspector. It struck me that people without diapers started coming behind the screen. Mostly young people. They asked to share a used diaper with them and used it again. To skip standing last mile in their line, of course. Some girls, mostly quite drunk, while in line made arrangements with guys and went behind the screen together. They thought that a girl could turn them down, and a guy would definitely not refuse, even a stranger. And imagine, they guessed correctly, that's how it works. I noticed that even real modest ladies and quite sober did this, they were just in a desperate state at the time.
+
+Zoran 11:38:33: And what is your question?
+
+Nela 11:38:35: I believe we should not push our clients to such indecent behavior.
+
+Zoran 11:38:40: My opinion is that it is not our deal to cultivate basic healthy disgust. Their parents should do this. After all, they are adults... well, at least they are over 18. They are responsible for their own health. If they trust each other so much or believe in luck, then why not. And isn't it great that they solved their problem in this way, without creating any additional problems for our team! On the contrary, I think that this is part of our success.
+
+[Pause]
+
+Zoran 11:39:04: Well, Nela, maybe you're right in something. If one of them gets sick later and publicly reveals that they were allowed to use someone else's diaper, it could negatively affect the reputation of our department. I'll think about how we could discourage such habits without compromising the sanitary situation, you're welcome to share. And to implement it then.
+
+Nela 11:39:13: I didn't mean to discourage anyone who needs to pee. We've already done a good enough job of that. I suggest we all think and prepare so that next time, natural needs never become a problem for anyone.
+
+[Applause]
+
+Zoran 11:39:22: Okay, I support you, we need to think about it. Can I continue?
+
+Nela 11:39:28: Yes, please continue.
+
+Zoran 11:39:30: In the middle of the tenth day, finally, the inspectors of the Federal Sanitary Committee got to us. I accompanied them throughout the territory. I admit, I was very worried then. Guess what they paid special attention to. No, not even the lack of impromptu toilets. And not the cleanliness of the toilet stalls. They were especially surprised at where these long toilet lines were, which they were used to finding at such events literally everywhere. But we didn’t have them. The inspectors were simply delighted: they were observing living people surrounded by a celebration of life, beer, music and cleanliness. And the sanitary zone seemed to live its own life, behind a barrier of a pedestrian crossing and traffic lights. No nasty toilet lines, no visible connection between these, so to speak, two parallel worlds.
+
+[Pause]
+
+Zoran 11:39:56: So, I wish each of you the same success at your future festivals. And maybe even more than this one. That's all I have for the lessons learned from the final event of the Summer 2049 season. Thank you all for participating in this meeting. A special thanks to Nela: I have noted your activity on all issues related to our activities. I would be very grateful if you suddenly have new suggestions for the next season, and you will let me know, the sooner the better. I promise to consider them very carefully. But I emphasize that it is the suggestions that are important, and not just a list of shortcomings. Noticing shortcomings is always easier than looking for a solution. Once again, thank you for your active participation.
+
+Nela 11:40:14: Thank you too.
+
+[Applause]
+
+Zoran 11:40:22: I am very pleased to provide fresh information. Our ministry together with municipalities have agreed on 2 more events for the next season than last year. However, ...
+
+[Pause]
+
+Zoran 11:40:31: No one will give us an additional budget. This is a challenge for us. Of course, I will raise this issue with the ministry and give them a hint that our dedication is not endless. But at the moment we have what we have. Last season we worked very smartly and found ways to optimize the budget, achieving impressive results. I hope that your new ideas will help us stay within the previous budget in the new season. And not only stay within it, but maybe achieve even more impressive savings.
+
+[Applause]
+
+Zoran 11:40:53: I claim our meeting over. Have a nice day and a best weekend.
+
+11:41:05 End of recording.
+
